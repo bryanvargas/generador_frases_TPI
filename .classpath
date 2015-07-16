@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="Librerias/itextpdf-5.5.5.jar"/>
+	<classpathentry kind="lib" path="Librerias/synthetica.jar"/>
+	<classpathentry kind="lib" path="Librerias/syntheticaAluOxide.jar"/>
+	<classpathentry kind="lib" path="Librerias/syntheticaBlackEye.jar"/>
+	<classpathentry kind="lib" path="Librerias/syntheticaBlackMoon.jar"/>
+	<classpathentry kind="lib" path="Librerias/syntheticaBlackStar.jar"/>
+	<classpathentry kind="lib" path="Librerias/syntheticaBlueIce.jar"/>
+	<classpathentry kind="lib" path="Librerias/syntheticaBlueLight.jar"/>
+	<classpathentry kind="lib" path="Librerias/syntheticaBlueMoon.jar"/>
+	<classpathentry kind="lib" path="Librerias/syntheticaBlueSteel.jar"/>
+	<classpathentry kind="lib" path="Librerias/syntheticaClassy.jar"/>
+	<classpathentry kind="lib" path="Librerias/syntheticaGreenDream.jar"/>
+	<classpathentry kind="lib" path="Librerias/syntheticaMauveMetallic.jar"/>
+	<classpathentry kind="lib" path="Librerias/syntheticaOrangeMetallic.jar"/>
+	<classpathentry kind="lib" path="Librerias/syntheticaSilverMoon.jar"/>
+	<classpathentry kind="lib" path="Librerias/syntheticaSimple2D.jar"/>
+	<classpathentry kind="lib" path="Librerias/syntheticaSkyMetallic.jar"/>
+	<classpathentry kind="lib" path="Librerias/syntheticaWhiteVision.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
